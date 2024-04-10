@@ -1,9 +1,6 @@
 ### Hi！我是前端工程师-Fisher 👋
 
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hua1995116&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
 作为一名前端工程师，我对于构建用户友好的网页应用程序和优化用户体验充满热情。
 
 专注于使用现代技术和最佳实践来开发响应式、可扩展和高性能的网页应用。我的技能涵盖了HTML、CSS、JavaScript和TypeScript，并且我有着深入的了解和实践在各种框架和库中应用它们，如React、Vue。
@@ -23,7 +20,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
-![ObjectiveC](https://img.shields.io/badge/-ObjectiveC-000?&logo=apple)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 
 **Technologies**
