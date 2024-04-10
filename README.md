@@ -19,6 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-000?&logo=Node.JS)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 
